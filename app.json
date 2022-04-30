@@ -1,13 +1,13 @@
 {
-  "name": "CatUserbot",
-  "description": "A simple Telegram userbot based on Telethon . Maintained by Sandeep ",
-  "logo": "https://telegra.ph/file/3d60313110c58684b31ea.jpg",
+  "name": "Tempestbot",
+  "description": "A simple Telegram userbot based on Telethon . Maintained by ERROR ",
+  "logo": "https://telegra.ph/file/087f4d6379619edba09f4.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/TgCatUB/catuserbot",
+  "repository": "https://github.com/kirito-1240/Test-1",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -24,7 +24,7 @@
       "value": ""
     },
     "STRING_SESSION": {
-      "description": "Get this value by running python3 telesetup.py locally or https://generatestringsession.sandeep1709.repl.run",
+      "description": "Get this value by running python3 telesetup.py locally or join @TempestUBSupport and write #repl",
       "value": ""
     },
     "TG_BOT_TOKEN": {
@@ -61,7 +61,7 @@
       "value": "True",
       "required": false
     },
-    "BADCAT": {
+    "TEMPEST": {
       "description": "set 'True' to install 18+ plugins.",
       "value": "False",
       "required": false
