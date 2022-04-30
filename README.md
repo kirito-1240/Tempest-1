@@ -1,4 +1,8 @@
 # Tempest Userbot
+
+<p align="center"><img src="https://telegra.ph/file/8da10fa146b107970e0c5.jpg"></p>
+
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkirito-1240%2FTempest-1&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/kirito-1240/Tempest-1)
 
  
